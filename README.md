@@ -1,4 +1,10 @@
 # Python-Scripts-for-Ethical-Hacking
-A collection of Python Scripts I have written for use in ethical hacking.
+A collection of Python scripts developed for cybersecurity education, ethical hacking, and hands-on learning.
 
-The scripts in this repository are for ethical use only and I am not responsible for any misuse or damage caused by these scripts. Use them at your own risk. You should only use the scripts on equipment you own or have been given permission to use for testing.
+## Categories
+
+### Hash Cracking
+Python scripts for experimenting with password hash cracking and understanding hashing algorithms.
+
+## Disclaimer
+These scripts are intended for educational purposes and authorized security testing only.
